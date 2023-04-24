@@ -1,5 +1,4 @@
-## Hello, i'm Thomz i make iOS Tweaks and i have no idea on how to add all these widgets that people add here
-# Some of my work:
+## Hello, i'm Thomz 
 - Cenamo - https://chariz.com/get/Cenamo
 - Multipla - https://chariz.com/buy/Multipla (made with lauren)
 - Folded - https://repo.packix.com/package/xyz.burritoz.thomz.folded/ (made with lauren)
